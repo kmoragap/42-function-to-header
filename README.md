@@ -14,8 +14,7 @@ This Visual Studio Code extension allows you to automatically add selected funct
 
 ## Usage
 
-<!-- insert gif -->
-<video src="42-function-to-header.mp4" controls></video>
+<video src='42-function-to-header.mp4' />
 
 
 
