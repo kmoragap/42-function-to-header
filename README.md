@@ -18,7 +18,7 @@ This Visual Studio Code extension allows you to automatically add selected funct
 
 ## Usage
 
-https://github.com/kmoragap/42-function-to-header/assets/38703421/f6c08c2a-fdc9-4a66-a240-4ced18edb6d6
+<video src="https://github.com/kmoragap/42-function-to-header/assets/38703421/f6c08c2a-fdc9-4a66-a240-4ced18edb6d6"></video>
 
 1. Open a C source file in Visual Studio Code.
 2. Select the function(s) you want to add to the header file.
