@@ -1,3 +1,5 @@
+![icon](https://github.com/kmoragap/42-function-to-header/assets/38703421/c75b60d0-2002-4eca-8e43-602e737b4cc6)
+
 # 42 Function to Header
 
 This Visual Studio Code extension allows you to automatically add selected functions to a header file in C projects.
