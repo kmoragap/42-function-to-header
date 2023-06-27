@@ -35,7 +35,7 @@ Note: If you prefer to set a custom keyboard shortcut for the "Add Function to H
 
 
 
-### 1.0.0
+### 0.0.4
 
 - Initial release of the "42 Function to Header" extension.
 
